@@ -1,0 +1,14 @@
+#people{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#container{
+    background-color: blueviolet;
+}
+
+body {
+    margin: auto 10px;
+    width: auto;
+    height: 2000px;
+    background-color: rgb(0, 200, 255);
+}
